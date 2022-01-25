@@ -24,9 +24,6 @@ else
 
 
 
-
-
-
  function getRandom()
  {
     return Math.floor(Math.random() * 6) + 1;
